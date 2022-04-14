@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NT230-Lab03/1.0.0": {
+        "runtime": {
+          "NT230-Lab03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NT230-Lab03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
